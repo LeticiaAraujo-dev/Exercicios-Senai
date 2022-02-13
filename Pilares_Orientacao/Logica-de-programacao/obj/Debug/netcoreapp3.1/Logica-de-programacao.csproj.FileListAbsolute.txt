@@ -1,0 +1,4 @@
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programacao.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programacao.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programacao.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programacao.csproj.CoreCompileInputs.cache

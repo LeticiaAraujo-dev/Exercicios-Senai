@@ -1,0 +1,13 @@
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Ex1\bin\Debug\netcoreapp3.1\Ex1.exe
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Ex1\bin\Debug\netcoreapp3.1\Ex1.deps.json
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.json
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.dev.json
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Ex1\bin\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Ex1\bin\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Ex1\obj\Debug\netcoreapp3.1\Ex1.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Ex1\obj\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Ex1\obj\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Ex1\obj\Debug\netcoreapp3.1\Ex1.genruntimeconfig.cache

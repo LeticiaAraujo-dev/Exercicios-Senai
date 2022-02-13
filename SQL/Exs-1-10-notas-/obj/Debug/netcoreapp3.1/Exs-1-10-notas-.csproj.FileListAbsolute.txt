@@ -1,0 +1,13 @@
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Exs-1-10-notas-\bin\Debug\netcoreapp3.1\Exs-1-10-notas-.exe
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Exs-1-10-notas-\bin\Debug\netcoreapp3.1\Exs-1-10-notas-.deps.json
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Exs-1-10-notas-\bin\Debug\netcoreapp3.1\Exs-1-10-notas-.runtimeconfig.json
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Exs-1-10-notas-\bin\Debug\netcoreapp3.1\Exs-1-10-notas-.runtimeconfig.dev.json
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Exs-1-10-notas-\bin\Debug\netcoreapp3.1\Exs-1-10-notas-.dll
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Exs-1-10-notas-\bin\Debug\netcoreapp3.1\Exs-1-10-notas-.pdb
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Exs-1-10-notas-\obj\Debug\netcoreapp3.1\Exs-1-10-notas-.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Exs-1-10-notas-\obj\Debug\netcoreapp3.1\Exs-1-10-notas-.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Exs-1-10-notas-\obj\Debug\netcoreapp3.1\Exs-1-10-notas-.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Exs-1-10-notas-\obj\Debug\netcoreapp3.1\Exs-1-10-notas-.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Exs-1-10-notas-\obj\Debug\netcoreapp3.1\Exs-1-10-notas-.dll
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Exs-1-10-notas-\obj\Debug\netcoreapp3.1\Exs-1-10-notas-.pdb
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Exs-1-10-notas-\obj\Debug\netcoreapp3.1\Exs-1-10-notas-.genruntimeconfig.cache

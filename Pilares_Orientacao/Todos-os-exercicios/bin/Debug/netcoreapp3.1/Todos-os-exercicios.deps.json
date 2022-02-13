@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Todos-os-exercicios/1.0.0": {
+        "runtime": {
+          "Todos-os-exercicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Todos-os-exercicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

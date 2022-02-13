@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Lista de exercicios\Primeiro-Exercicio\bin\Debug\netcoreapp3.1\Primeiro-Exercicio.exe
+C:\Users\dev\Desktop\Lista de exercicios\Primeiro-Exercicio\bin\Debug\netcoreapp3.1\Primeiro-Exercicio.deps.json
+C:\Users\dev\Desktop\Lista de exercicios\Primeiro-Exercicio\bin\Debug\netcoreapp3.1\Primeiro-Exercicio.runtimeconfig.json
+C:\Users\dev\Desktop\Lista de exercicios\Primeiro-Exercicio\bin\Debug\netcoreapp3.1\Primeiro-Exercicio.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Lista de exercicios\Primeiro-Exercicio\bin\Debug\netcoreapp3.1\Primeiro-Exercicio.dll
+C:\Users\dev\Desktop\Lista de exercicios\Primeiro-Exercicio\bin\Debug\netcoreapp3.1\Primeiro-Exercicio.pdb
+C:\Users\dev\Desktop\Lista de exercicios\Primeiro-Exercicio\obj\Debug\netcoreapp3.1\Primeiro-Exercicio.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Lista de exercicios\Primeiro-Exercicio\obj\Debug\netcoreapp3.1\Primeiro-Exercicio.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Lista de exercicios\Primeiro-Exercicio\obj\Debug\netcoreapp3.1\Primeiro-Exercicio.AssemblyInfo.cs
+C:\Users\dev\Desktop\Lista de exercicios\Primeiro-Exercicio\obj\Debug\netcoreapp3.1\Primeiro-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Lista de exercicios\Primeiro-Exercicio\obj\Debug\netcoreapp3.1\Primeiro-Exercicio.dll
+C:\Users\dev\Desktop\Lista de exercicios\Primeiro-Exercicio\obj\Debug\netcoreapp3.1\Primeiro-Exercicio.pdb
+C:\Users\dev\Desktop\Lista de exercicios\Primeiro-Exercicio\obj\Debug\netcoreapp3.1\Primeiro-Exercicio.genruntimeconfig.cache

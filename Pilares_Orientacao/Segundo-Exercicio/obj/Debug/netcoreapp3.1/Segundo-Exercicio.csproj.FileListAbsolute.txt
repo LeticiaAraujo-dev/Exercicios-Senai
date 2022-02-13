@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Lista de exercicios\Segundo-Exercicio\bin\Debug\netcoreapp3.1\Segundo-Exercicio.exe
+C:\Users\dev\Desktop\Lista de exercicios\Segundo-Exercicio\bin\Debug\netcoreapp3.1\Segundo-Exercicio.deps.json
+C:\Users\dev\Desktop\Lista de exercicios\Segundo-Exercicio\bin\Debug\netcoreapp3.1\Segundo-Exercicio.runtimeconfig.json
+C:\Users\dev\Desktop\Lista de exercicios\Segundo-Exercicio\bin\Debug\netcoreapp3.1\Segundo-Exercicio.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Lista de exercicios\Segundo-Exercicio\bin\Debug\netcoreapp3.1\Segundo-Exercicio.dll
+C:\Users\dev\Desktop\Lista de exercicios\Segundo-Exercicio\bin\Debug\netcoreapp3.1\Segundo-Exercicio.pdb
+C:\Users\dev\Desktop\Lista de exercicios\Segundo-Exercicio\obj\Debug\netcoreapp3.1\Segundo-Exercicio.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Lista de exercicios\Segundo-Exercicio\obj\Debug\netcoreapp3.1\Segundo-Exercicio.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Lista de exercicios\Segundo-Exercicio\obj\Debug\netcoreapp3.1\Segundo-Exercicio.AssemblyInfo.cs
+C:\Users\dev\Desktop\Lista de exercicios\Segundo-Exercicio\obj\Debug\netcoreapp3.1\Segundo-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Lista de exercicios\Segundo-Exercicio\obj\Debug\netcoreapp3.1\Segundo-Exercicio.dll
+C:\Users\dev\Desktop\Lista de exercicios\Segundo-Exercicio\obj\Debug\netcoreapp3.1\Segundo-Exercicio.pdb
+C:\Users\dev\Desktop\Lista de exercicios\Segundo-Exercicio\obj\Debug\netcoreapp3.1\Segundo-Exercicio.genruntimeconfig.cache
